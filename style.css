@@ -1,0 +1,40 @@
+
+html {
+  background: url("https://ak9.picdn.net/shutterstock/videos/33435829/thumb/1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#hello {
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+}
+img {
+    border-radius: 25px;
+    padding: 10px;
+}
+#wow {
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 500px;
+    height: 100px;
+}
+#got {
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+}
+h1{
+  color: white
+}
+
+a{
+  color: white
+}
